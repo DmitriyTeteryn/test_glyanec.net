@@ -24,6 +24,11 @@
   padding-bottom: 10px;
 }
 
+.check_text {
+  height: 440px;
+  overflow-y: scroll;
+}
+
 #why_we {
   background-color: #FFD00E;
 }
