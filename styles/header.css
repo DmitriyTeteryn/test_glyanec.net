@@ -4,7 +4,7 @@
 }
 
 .header_background {
-  background-image: url(/img/logo/gl_top.png);
+  background-image: url(../img/logo/gl_top.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 960px;
@@ -20,7 +20,7 @@
 
 .top_background {
   background-position: 0 33px;
-  background-image: url(/img/header_img.svg);
+  background-image: url(../img/header_img.svg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
